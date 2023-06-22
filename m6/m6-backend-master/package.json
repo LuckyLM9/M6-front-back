@@ -13,7 +13,7 @@
     "start": "node server.js"
   },
   "author": "Luca",
-  "license": "ISC",
+  "license": "lmp",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cloudinary": "^1.37.1",
